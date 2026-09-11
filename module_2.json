@@ -1,0 +1,15 @@
+{
+  "name": "phantom-daemon-7522",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 3706,
+    "createdAt": "2026-09-11T13:10:56.050Z"
+  }
+}
